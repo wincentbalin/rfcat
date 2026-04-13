@@ -344,10 +344,10 @@ If you watched any of my talks on rfcat, you will likely remember that you need 
 
 However, you will find that I've done that for you in the client for most things.  The only time you need to do this yourself are:
 
-    * If you are doing the changes in firmware
-    * If you are using the `d.poke()` functionality
-        * if you use `d.setRFRegister()`, this is handled for you
-        * `use d.setRFRegister()`
+* If you are doing the changes in firmware
+* If you are using the `d.poke()` functionality
+    * if you use `d.setRFRegister()`, this is handled for you
+    * `use d.setRFRegister()`
 
 ## External Projects
 [ZWave Attack](https://www.initbrain.fr/security/2016/z-attack/):  [https://github.com/initbrain/Z-Attack](https://github.com/initbrain/Z-Attack)
